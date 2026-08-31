@@ -32,10 +32,3 @@ Atualmente, estou aprofundando meus conhecimentos em **React, Java e Figma**, en
 </p>
 
 ---
-
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=lopreti&theme=github-compact&hide_border=true"
-  />
-</p>
